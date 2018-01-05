@@ -43,7 +43,7 @@ However, due to a change in my private life, it became inactive for a long time.
 
 
 # &#x1F34E; Usage
-Execute Org*nnn*.exe file.
+Execute Org*xxx*.exe file.
 
 
 
