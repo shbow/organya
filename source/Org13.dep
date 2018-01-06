@@ -1,0 +1,274 @@
+# Microsoft Developer Studio Generated Dependency File, included by Org13.mak
+
+.\Click.cpp : \
+	".\DefOrg.h"\
+	".\Mouse.h"\
+	".\OrgData.h"\
+	".\rxoFunction.h"\
+	".\Scroll.h"\
+	".\Setting.h"\
+	"c:\program files (x86)\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\DlgEdit.cpp : \
+	".\DefOrg.h"\
+	".\Gdi.h"\
+	".\OrgData.h"\
+	".\rxoFunction.h"\
+	".\Setting.h"\
+	".\Sound.h"\
+	"c:\program files (x86)\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\DlgEZCopy.cpp : \
+	".\DefOrg.h"\
+	".\Gdi.h"\
+	".\OrgData.h"\
+	".\rxoFunction.h"\
+	".\Scroll.h"\
+	".\Setting.h"\
+	".\Sound.h"\
+	".\Timer.h"\
+	"c:\program files (x86)\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\DlgPlayer.cpp : \
+	".\DefOrg.h"\
+	".\Gdi.h"\
+	".\OrgData.h"\
+	".\Scroll.h"\
+	".\Setting.h"\
+	".\Sound.h"\
+	".\Timer.h"\
+	"c:\program files (x86)\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\DlgSet.cpp : \
+	".\DefOrg.h"\
+	".\Gdi.h"\
+	".\Mouse.h"\
+	".\OrgData.h"\
+	".\rxoFunction.h"\
+	".\Setting.h"\
+	".\Sound.h"\
+	"c:\program files (x86)\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\DlgTrack.cpp : \
+	".\DefOrg.h"\
+	".\Gdi.h"\
+	".\OrgData.h"\
+	".\rxoFunction.h"\
+	".\Setting.h"\
+	".\Sound.h"\
+	".\Timer.h"\
+	"c:\program files (x86)\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\Filer.cpp : \
+	".\DefOrg.h"\
+	".\OrgData.h"\
+	".\rxoFunction.h"\
+	".\Setting.h"\
+	"c:\program files (x86)\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\Gdi.cpp : \
+	".\DefOrg.h"\
+	".\OrgData.h"\
+	".\Setting.h"\
+	"c:\program files (x86)\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\MainPut.cpp : \
+	".\DefOrg.h"\
+	".\Gdi.h"\
+	".\OrgData.h"\
+	".\rxoFunction.h"\
+	".\Scroll.h"\
+	".\Setting.h"\
+	"c:\program files (x86)\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\Mouse.cpp : \
+	".\Mouse.h"\
+	".\Setting.h"\
+	"c:\program files (x86)\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\OrgData.cpp : \
+	".\DefOrg.h"\
+	".\Gdi.h"\
+	".\OrgData.h"\
+	".\rxoFunction.h"\
+	".\Setting.h"\
+	".\Sound.h"\
+	"c:\program files (x86)\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\OrgEdit.cpp : \
+	".\DefOrg.h"\
+	".\Gdi.h"\
+	".\OrgData.h"\
+	".\rxoFunction.h"\
+	".\Setting.h"\
+	"c:\program files (x86)\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\OrgFile.cpp : \
+	".\DefOrg.h"\
+	".\Gdi.h"\
+	".\OrgData.h"\
+	".\rxoFunction.h"\
+	".\Scroll.h"\
+	".\Setting.h"\
+	".\Sound.h"\
+	"c:\program files (x86)\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\OrgFileMIDI.cpp : \
+	".\DefOrg.h"\
+	".\Gdi.h"\
+	".\OrgData.h"\
+	".\rxoFunction.h"\
+	".\Scroll.h"\
+	".\Setting.h"\
+	".\Sound.h"\
+	"c:\program files (x86)\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\OrgPlay.cpp : \
+	".\DefOrg.h"\
+	".\OrgData.h"\
+	".\Scroll.h"\
+	".\Setting.h"\
+	".\Sound.h"\
+	"c:\program files (x86)\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\rxoFunction.cpp : \
+	".\Click.h"\
+	".\DefOrg.h"\
+	".\Filer.h"\
+	".\Gdi.h"\
+	".\Mouse.h"\
+	".\OrgData.h"\
+	".\Scroll.h"\
+	".\Setting.h"\
+	".\Sound.h"\
+	".\Timer.h"\
+	"c:\program files (x86)\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\Script1.rc : \
+	".\Bitmap\button_track_1.bmp"\
+	".\Bitmap\button_track_2.bmp"\
+	".\Bitmap\button_track_3.bmp"\
+	".\Bitmap\button_track_4.bmp"\
+	".\Bitmap\button_track_5.bmp"\
+	".\Bitmap\button_track_6.bmp"\
+	".\Bitmap\button_track_7.bmp"\
+	".\Bitmap\button_track_8.bmp"\
+	".\Bitmap\button_track_E.bmp"\
+	".\Bitmap\button_track_I.bmp"\
+	".\Bitmap\button_track_Q.bmp"\
+	".\Bitmap\button_track_R.bmp"\
+	".\Bitmap\button_track_T.bmp"\
+	".\Bitmap\button_track_U.bmp"\
+	".\Bitmap\button_track_W.bmp"\
+	".\Bitmap\button_track_Y.bmp"\
+	".\Bitmap\ffff.ico"\
+	".\Bitmap\Loupe_MINUS.bmp"\
+	".\Bitmap\Loupe_PLUS.bmp"\
+	".\Bitmap\Music.bmp"\
+	".\Bitmap\Note.bmp"\
+	".\Bitmap\Number.bmp"\
+	".\Bitmap\org_back.bmp"\
+	".\Bitmap\org_home.bmp"\
+	".\Bitmap\org_next.bmp"\
+	".\Bitmap\org_play.bmp"\
+	".\Bitmap\org_stop.bmp"\
+	".\Bitmap\Pan.bmp"\
+	".\Bitmap\Solo.bmp"\
+	".\Bitmap\wave100.bmp"\
+	".\resource.hm"\
+	".\Wave\Bass01.wav"\
+	".\Wave\Bass02.wav"\
+	".\Wave\Bass03.wav"\
+	".\Wave\Bass04.wav"\
+	".\Wave\Bass05.wav"\
+	".\Wave\Bass06.wav"\
+	".\Wave\Bass07.wav"\
+	".\Wave\Bass08.wav"\
+	".\Wave\Bell.wav"\
+	".\Wave\cat.wav"\
+	".\Wave\Clap01.wav"\
+	".\Wave\Crash.wav"\
+	".\Wave\Crash02.wav"\
+	".\Wave\HiClose.wav"\
+	".\Wave\HiClose03.wav"\
+	".\Wave\HiClose04.wav"\
+	".\Wave\HiClose05.wav"\
+	".\Wave\HiClose2.wav"\
+	".\Wave\HiOpen.wav"\
+	".\Wave\HiOpen03.wav"\
+	".\Wave\HiOpen04.wav"\
+	".\Wave\HiOpen2.wav"\
+	".\Wave\OrcDrm01.wav"\
+	".\Wave\Per01.wav"\
+	".\Wave\Per02.wav"\
+	".\Wave\Pesi01.wav"\
+	".\Wave\Quick01.wav"\
+	".\Wave\RevSym01.wav"\
+	".\Wave\Ride01.wav"\
+	".\Wave\Snare01.wav"\
+	".\Wave\Snare02.wav"\
+	".\Wave\Snare03.wav"\
+	".\Wave\Snare04.wav"\
+	".\Wave\Snare05.wav"\
+	".\Wave\Snare06.wav"\
+	".\Wave\Snare07.wav"\
+	".\Wave\Snare08.wav"\
+	".\Wave\Tom01.wav"\
+	".\Wave\Tom02.wav"\
+	".\Wave\Tom03.wav"\
+	".\Wave\Tom04.wav"\
+	".\Wave\Tom05.wav"\
+	".\Wave\Wave.dat"\
+	".\help.txt"\
+	
+
+.\Scroll.cpp : \
+	".\DefOrg.h"\
+	".\OrgData.h"\
+	".\Scroll.h"\
+	".\Setting.h"\
+	"c:\program files (x86)\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\Sound.cpp : \
+	".\DefOrg.h"\
+	".\Setting.h"\
+	"c:\program files (x86)\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\WinMain.cpp : \
+	".\Click.h"\
+	".\DefOrg.h"\
+	".\Filer.h"\
+	".\Gdi.h"\
+	".\Mouse.h"\
+	".\OrgData.h"\
+	".\rxoFunction.h"\
+	".\Scroll.h"\
+	".\Setting.h"\
+	".\Sound.h"\
+	".\Timer.h"\
+	"c:\program files (x86)\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\WinTimer.cpp : \
+	".\DefOrg.h"\
+	".\OrgData.h"\
+	"c:\program files (x86)\microsoft visual studio\vc98\include\basetsd.h"\
+	

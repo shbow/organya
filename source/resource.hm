@@ -1,0 +1,4 @@
+// Microsoft Developer Studio generated Help ID include file.
+// Used by Script1.rc
+//
+#define HIDC_BUTTON1                    0x80be0433    // IDD_DIALOGOPEN
