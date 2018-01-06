@@ -43,13 +43,15 @@ However, due to a change in my private life, it became inactive for a long time.
 
 
 # &#x1F34E; Usage
-Execute Org*xxx*.exe file.
+
+If you only use Organya you need only Org211.exe .
+Execute ```Org211.exe``` file.
 
 
 
 # &#x1F34E; Contributing
 This project was developed in Japanese. The help file is also written in Japanese as well.  
-I think that it is important to translate English (Multilingual), not to mention bug fixes.  
+I think that it is important to translate English (also Multilingual), not to mention bug fixes.  
 
 
 # &#x1F34E; Author
